@@ -1,0 +1,22 @@
+[
+    {
+        "id": "2",
+        "name": "nuoc_ngot",
+        "price": "2000",
+        "amount": "2",
+        "description": "coca"
+    },
+    {
+        "id": "0.36817340736944226",
+        "name": "quan",
+        "price": 500,
+        "amount": 4
+    },
+    {
+        "id": "1",
+        "name": "nuoc_ngot",
+        "price": "2000",
+        "amount": 50,
+        "description": "coca"
+    }
+]
